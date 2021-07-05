@@ -1,0 +1,40 @@
+body {
+  background-image: linear-gradient(to left, rgb(22, 20, 20), green);
+  background-size: cover;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 70px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  font-size: 20px;
+  font-size: bold;
+  color: whitesmoke;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+#increment_btn {
+  background: black;
+}
+#save_btn {
+  background: darkgreen;
+}
+p {
+  font-size: 30px;
+}
